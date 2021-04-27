@@ -1,4 +1,4 @@
-### HELLO WORLD, I'm Farkhod Sadykov 👋
+### Hello There, I'm Farkhod Sadykov 👋
 
 
 - 🔭 I’m currently working on self improvements
