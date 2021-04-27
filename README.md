@@ -14,7 +14,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsadykov&layout=compact"
     />
   </a>
-  <a href="https://github.com/Murodbey?tab=repositories">
+  <a href="https://github.com/fsadykov?tab=repositories">
     <img
       align="center"
       height="165"
