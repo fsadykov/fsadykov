@@ -1,4 +1,4 @@
-### HELLO WORLD, I'm Murodbey 👋
+### HELLO WORLD, I'm Farkhod Sadykov 👋
 
 
 - 🔭 I’m currently working on self improvements
